@@ -1,9 +1,12 @@
 {
   "scopes": [
-    "projects",
-    "src"
+    "src",
+    "projects/ui-common/src"
   ],
-  "groups": [],
+  "groups": [
+    "projects/ui-common",
+    "projects"
+  ],
   "entries": [],
   "filter": {
     "files": [],
