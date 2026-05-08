@@ -1,9 +1,10 @@
 {
   "scopes": [
     "projects",
-    "src/app"
+    "src/app/shell"
   ],
   "groups": [
+    "src/app",
     "src"
   ],
   "entries": [],
