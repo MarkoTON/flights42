@@ -4,10 +4,12 @@
     "src/app/domains/checkin/feature-checkin",
     "src/app/domains/luggage/data",
     "src/app/domains/luggage/feature-luggage",
-    "projects/miles/src"
+    "projects/miles/src",
+    "projects/ui-common/src"
   ],
   "groups": [
     "projects/miles",
+    "projects/ui-common",
     "projects",
     "src/app/domains/checkin",
     "src/app/domains/luggage",
