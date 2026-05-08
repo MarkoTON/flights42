@@ -1,11 +1,8 @@
 {
   "scopes": [
-    "projects/miles/src",
     "src/app/shell"
   ],
   "groups": [
-    "projects/miles",
-    "projects",
     "src/app",
     "src"
   ],
