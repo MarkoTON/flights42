@@ -1,13 +1,9 @@
 {
   "scopes": [
     "projects",
-    "src/app/shell/about",
-    "src/app/shell/dashboard",
-    "src/app/shell/home",
-    "src/app/shell/navbar"
+    "src/app/shell"
   ],
   "groups": [
-    "src/app/shell",
     "src/app",
     "src"
   ],
