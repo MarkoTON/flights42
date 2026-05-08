@@ -1,7 +1,8 @@
 {
   "scopes": [
     "projects/miles",
-    "projects/ui-common"
+    "projects/ui-common",
+    "src"
   ],
   "groups": [
     "projects"
