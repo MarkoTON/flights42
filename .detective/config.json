@@ -1,7 +1,8 @@
 {
   "scopes": [
     "projects",
-    "src/app/domains"
+    "src/app/domains",
+    "src/app/shell"
   ],
   "groups": [
     "src/app",
