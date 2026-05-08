@@ -1,10 +1,11 @@
 {
   "scopes": [
-    "projects/miles",
     "src",
-    "projects/ui-common/src"
+    "projects/ui-common/src",
+    "projects/miles/src"
   ],
   "groups": [
+    "projects/miles",
     "projects/ui-common",
     "projects"
   ],
