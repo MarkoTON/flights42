@@ -46,3 +46,4 @@ Thumbs.db
 flights42.db
 flights42.db-shm
 flights42.db-wal
+.env
