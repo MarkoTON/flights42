@@ -2,7 +2,8 @@
   "scopes": [
     "src/app/shell",
     "src/app/domains/checkin/feature-checkin",
-    "src/app/domains/luggage/data"
+    "src/app/domains/luggage/data",
+    "src/app/domains/luggage/feature-luggage"
   ],
   "groups": [
     "src/app/domains/checkin",
