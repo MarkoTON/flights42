@@ -3,7 +3,8 @@
     "projects",
     "src/app/shell/about",
     "src/app/shell/dashboard",
-    "src/app/shell/home"
+    "src/app/shell/home",
+    "src/app/shell/navbar"
   ],
   "groups": [
     "src/app/shell",
