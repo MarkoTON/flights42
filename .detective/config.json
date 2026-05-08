@@ -1,8 +1,11 @@
 {
   "scopes": [
-    "src/app/shell"
+    "src/app/shell",
+    "src/app/domains/checkin/feature-checkin"
   ],
   "groups": [
+    "src/app/domains/checkin",
+    "src/app/domains",
     "src/app",
     "src"
   ],
