@@ -2,11 +2,9 @@
   "scopes": [
     "projects",
     "src/app/domains",
-    "src/app/shell/about",
-    "src/app/shell/dashboard"
+    "src/app/shell"
   ],
   "groups": [
-    "src/app/shell",
     "src/app",
     "src"
   ],
